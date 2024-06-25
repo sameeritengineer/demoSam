@@ -1,6 +1,6 @@
 <?php
 
 echo "product";
-echo "shabrej product";
+echo "shab product";
 echo "Sameer Product";
 ?>
