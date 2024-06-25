@@ -1,6 +1,6 @@
 <?php
 
 
-echo "sameer 1";
+echo "sameer 2";
 
 ?>
